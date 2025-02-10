@@ -65,6 +65,12 @@ const html = `
         text-decoration:none;
         color: #605A5C;
       }
+        footer { 
+        width: 100%;
+        height: 50px;
+        background-color: #1C151A";
+        color: white;
+        }
     </style>
   </head>
   <body>
