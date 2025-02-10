@@ -71,6 +71,7 @@ const html = `
     <section>
       <a href="https://render.com/docs/deploy-node-fastify-app">Hello from Render using Fastify!</a>
     </section>
+    <footer>Made with heart by Caramelo Web</footer>
   </body>
 </html>
 `
